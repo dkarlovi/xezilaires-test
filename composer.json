@@ -8,6 +8,8 @@
         "dkarlovi/xezilaires": "dev-master",
         "symfony/property-access": "^4.2",
         "box/spout": "^3.0",
-        "doctrine/annotations": "^1.7"
+        "doctrine/annotations": "^1.7",
+        "symfony/framework-bundle": "^4.3",
+        "symfony/console": "^4.3"
     }
 }
