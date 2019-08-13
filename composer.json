@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Example\\": "examples/"
+        }
+    },
+    "require": {
+        "dkarlovi/xezilaires": "dev-master",
+        "symfony/property-access": "^4.2",
+        "box/spout": "^3.0"
+    }
+}
