@@ -7,6 +7,7 @@
     "require": {
         "dkarlovi/xezilaires": "dev-master",
         "symfony/property-access": "^4.2",
-        "box/spout": "^3.0"
+        "box/spout": "^3.0",
+        "doctrine/annotations": "^1.7"
     }
 }
